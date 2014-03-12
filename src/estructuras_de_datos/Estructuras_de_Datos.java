@@ -17,8 +17,7 @@ public class Estructuras_de_Datos {
         
         Estructuras objeto_visual = new Estructuras();
         objeto_visual.setVisible(true);
-        //cristian tu papa
-        
+        //cristian tu papa y tu novio
     }
     
 }
